@@ -1,0 +1,13 @@
+
+<?php include_once("top.php");?>
+
+<body>
+<div class="container">
+ <h1 class="display-1">Page 1</h1>
+ <a href="/index.php" class="list-group-item list-group-item-action">main page</a>
+</div>
+</body>
+
+<?php include_once("footer.php");?>
+
+ 
